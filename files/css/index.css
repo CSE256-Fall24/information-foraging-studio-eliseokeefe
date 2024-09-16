@@ -16,13 +16,15 @@
 #visit-our-school {
     text-align: center;
     background-color: #eee;
-    padding: 80px;
+    padding: 60px;
     margin-bottom: 2em;
 }
 
 #visit-our-school p {
     text-align: left;
     margin-bottom: 2em;
+    margin-right: 2em; 
+    margin-left: 2em; 
     font-size: 1.25em;
 }
 
@@ -87,6 +89,10 @@
 .entry__category a {
     font-size: 1em;
     color: #555;
+}
+
+.newclass {
+    font-size: 2.5em; 
 }
 
 article h2 {
